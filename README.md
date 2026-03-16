@@ -363,4 +363,3 @@ The chatbot will:
 ____The Presentation is as follows:____
 
 
-https://docs.google.com/presentation/d/18In3_t3eEYVxzxuiQemi_E2EUclyfrYbqb9w9z1awOU/edit?usp=sharing
