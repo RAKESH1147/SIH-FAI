@@ -361,5 +361,6 @@ The chatbot will:
 * AI-powered recommendation system
 
 ____The Presentation is as follows:____
+https://docs.google.com/presentation/d/1dSofSwSDEoRJW-5l7CXvCtJCd5jtOS6nOk4cVLfvjT4/edit?usp=sharing
 
 
